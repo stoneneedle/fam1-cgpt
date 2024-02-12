@@ -2,10 +2,9 @@
 
 The following is the ChatGPT conversation that coded this boilerplate.
 
-Can you write a flask server boilerplate with Flask-SQLAlchemy and a Marshmallow REST controller?
+**Me:** Can you write a flask server boilerplate with Flask-SQLAlchemy and a Marshmallow REST controller?
 
-ChatGPT
-Certainly! Here's a simple Flask server boilerplate with Flask-SQLAlchemy and Marshmallow for creating a basic REST API. Make sure you have Flask, Flask-SQLAlchemy, and Marshmallow installed using:
+**ChatGPT:** Certainly! Here's a simple Flask server boilerplate with Flask-SQLAlchemy and Marshmallow for creating a basic REST API. Make sure you have Flask, Flask-SQLAlchemy, and Marshmallow installed using:
 
 ```bash
 pip install Flask Flask-SQLAlchemy Marshmallow
