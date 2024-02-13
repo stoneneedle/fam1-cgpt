@@ -542,6 +542,7 @@ You can integrate this component into your React application or use it as a star
 ```
 
 **Me:** The React app is still being blocked by CORS. Any ideas?
+
 **ChatGPT:** If your React app is being blocked by CORS even after enabling CORS in your Flask API, there are a few additional steps you can take to troubleshoot and resolve the issue:
 
 Check Flask Server Logs:
